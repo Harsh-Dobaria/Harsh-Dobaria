@@ -1,24 +1,24 @@
 # 👋 Hi, I'm Harsh Dobaria
 
-### 🤖 AI/ML Engineer | GenAI | RAG | NLP | Backend
+### AI/ML Engineer | GenAI | RAG | NLP | Backend
 
 I build **AI-powered applications, RAG systems, and backend services** with a focus on
 retrieval quality, model evaluation, and production-oriented AI engineering.
 
-🎓 B.Tech IT Student  
-🧠 Focused on **Machine Learning, Deep Learning, NLP, GenAI & RAG**  
-⚙️ Building with **Python, FastAPI, LangChain & LangGraph**
+B.Tech IT Student  
+Focused on **Machine Learning, Deep Learning, NLP, GenAI & RAG**  
+Building with **Python, FastAPI, LangChain & LangGraph**
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently building and improving **AI/RAG systems**
-- 🤖 Interested in **Generative AI, NLP, LLMs and AI Agents**
-- 🔎 Working with **Retrieval-Augmented Generation and retrieval optimization**
-- 📊 Interested in **model evaluation and experimentation**
-- 🛠️ Building backend systems using **Python and FastAPI**
-- 📚 Currently deepening my knowledge of **Deep Learning and Transformers**
+- Currently building and improving **AI/RAG systems**
+- Interested in **Generative AI, NLP, LLMs and AI Agents**
+- Working with **Retrieval-Augmented Generation and retrieval optimization**
+- Interested in **model evaluation and experimentation**
+- Building backend systems using **Python and FastAPI**
+- Currently deepening my knowledge of **Deep Learning and Transformers**
 
 ---
 
@@ -75,45 +75,6 @@ retrieval quality, model evaluation, and production-oriented AI engineering.
 
 ---
 
-# 🚀 Featured Projects
-
-## 🧠 ContextAI
-
-**Multi-Agent RAG Platform**
-
-A production-oriented RAG system focused on improving retrieval quality and response generation.
-
-**Highlights**
-- 🔎 Hybrid retrieval using **BM25 + vector search**
-- 🎯 Cross-Encoder reranking
-- 🧠 Query reformulation
-- 🤖 Multi-agent workflow with **LangGraph**
-- 📊 Retrieval evaluation with **LangSmith**
-- ⚡ Optimized retrieval performance and latency
-
-**Tech:** `Python` `FastAPI` `LangChain` `LangGraph` `LangSmith` `FAISS` `BM25`
-
----
-
-## 🏏 CricPredict
-
-**Cricket Match Prediction System**
-
-Machine-learning based system for predicting cricket match outcomes using historical match data.
-
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `ML`
-
----
-
-## 🚀 StartupAI
-
-**AI-powered Startup Platform**
-
-Backend-focused AI application combining modern web technologies with AI-powered functionality.
-
-**Tech:** `Python` `FastAPI` `REST APIs` `LLMs` `PostgreSQL`
-
----
 
 # 📊 GitHub Stats
 
@@ -125,17 +86,4 @@ Backend-focused AI application combining modern web technologies with AI-powered
 
 ---
 
-# 🎯 Current Focus
 
-```text
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-Transformers
-      ↓
-LLMs
-      ↓
-Advanced RAG
-      ↓
-AI Agents
